@@ -1,0 +1,14 @@
+C:\Users\luisw\Documents\desafio_aplicativo_net\backend\Api\AspNet.Data\bin\Debug\net6.0\AspNet.Data.deps.json
+C:\Users\luisw\Documents\desafio_aplicativo_net\backend\Api\AspNet.Data\bin\Debug\net6.0\AspNet.Data.runtimeconfig.json
+C:\Users\luisw\Documents\desafio_aplicativo_net\backend\Api\AspNet.Data\bin\Debug\net6.0\AspNet.Data.dll
+C:\Users\luisw\Documents\desafio_aplicativo_net\backend\Api\AspNet.Data\bin\Debug\net6.0\AspNet.Data.pdb
+C:\Users\luisw\Documents\desafio_aplicativo_net\backend\Api\AspNet.Data\obj\Debug\net6.0\AspNet.Data.csproj.AssemblyReference.cache
+C:\Users\luisw\Documents\desafio_aplicativo_net\backend\Api\AspNet.Data\obj\Debug\net6.0\AspNet.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisw\Documents\desafio_aplicativo_net\backend\Api\AspNet.Data\obj\Debug\net6.0\AspNet.Data.AssemblyInfoInputs.cache
+C:\Users\luisw\Documents\desafio_aplicativo_net\backend\Api\AspNet.Data\obj\Debug\net6.0\AspNet.Data.AssemblyInfo.cs
+C:\Users\luisw\Documents\desafio_aplicativo_net\backend\Api\AspNet.Data\obj\Debug\net6.0\AspNet.Data.csproj.CoreCompileInputs.cache
+C:\Users\luisw\Documents\desafio_aplicativo_net\backend\Api\AspNet.Data\obj\Debug\net6.0\AspNet.Data.dll
+C:\Users\luisw\Documents\desafio_aplicativo_net\backend\Api\AspNet.Data\obj\Debug\net6.0\refint\AspNet.Data.dll
+C:\Users\luisw\Documents\desafio_aplicativo_net\backend\Api\AspNet.Data\obj\Debug\net6.0\AspNet.Data.pdb
+C:\Users\luisw\Documents\desafio_aplicativo_net\backend\Api\AspNet.Data\obj\Debug\net6.0\AspNet.Data.genruntimeconfig.cache
+C:\Users\luisw\Documents\desafio_aplicativo_net\backend\Api\AspNet.Data\obj\Debug\net6.0\ref\AspNet.Data.dll
